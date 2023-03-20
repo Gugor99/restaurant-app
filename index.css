@@ -70,7 +70,7 @@ h2{
     top: 427px;
     border-radius: 50%;
     border: #DEDEDE 1px solid;
-    margin: auto;
+    margin: auto 0 auto auto;
     background: #F5F5F5;
     font-weight: lighter;
     font-size: 25px;
