@@ -5,13 +5,14 @@ body {
 
 main{
     font-family: 'Smythe';
+    width: 100%;
 }
 
 .hero{
     margin-bottom: 5px;
     margin-left: auto;
     margin-right: auto;
-    max-width: 500px;
+    width: 100%;
     color: white;
     height: 180px;
     background-image: url("images/ferks-guare-KEZdWfYD-ow-unsplash.jpg");
@@ -30,7 +31,6 @@ main{
 .product-section{
     margin-left: auto;
     margin-right: auto;
-    width: 400px;
     border-bottom: 1px solid #8B8B8B;
     height: 130px;
 }
@@ -188,4 +188,9 @@ input{
     color: #065F46;
     margin-top: 45px;
     border-radius: 5px;
+}
+
+.food-container{
+    width: 100%;
+    border: 1px solid;
 }
