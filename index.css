@@ -5,17 +5,17 @@ body {
 
 main{
     font-family: 'Smythe';
-    width: 100%;
 }
 
 .hero{
     margin-bottom: 5px;
     margin-left: auto;
     margin-right: auto;
-    width: 100%;
+    max-width: 700px;
     color: white;
     height: 180px;
     background-image: url("images/ferks-guare-KEZdWfYD-ow-unsplash.jpg");
+    background-position: center;
     background-size: cover;
 }
 
@@ -188,9 +188,4 @@ input{
     color: #065F46;
     margin-top: 45px;
     border-radius: 5px;
-}
-
-.food-container{
-    width: 100%;
-    border: 1px solid;
 }
